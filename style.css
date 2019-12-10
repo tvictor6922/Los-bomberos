@@ -1,7 +1,7 @@
 
 h1 {
    text-align: center;
-   font-size: 40px;
+   font-size: 50px;
    Color: red;
    word-spacing: 5px;
    text-shadow: 3px 2px black;
@@ -9,7 +9,7 @@ h1 {
 
 h2 {
    text-align: center;
-   font-size: 35px;
+   font-size: 40px;
    Color: black;
    word-spacing: 5px;
 }
@@ -21,11 +21,11 @@ h2 {
 }
 
 .navbar a {
-  float: left;
+  float: center;
   padding: 12px;
   color: red;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 20px;
   width: 18%;
   text-align: center;
 }
@@ -40,4 +40,18 @@ h2 {
 
 .navbar a:visited {
   background-color: red;
+}
+
+h4 {
+   text-align: center;
+   font-size: 45px;
+   Color: black;
+   word-spacing: 5px;
+}
+
+h3 {
+   text-align: center;
+   font-size: 20px;
+   Color: black;
+   word-spacing: 5px;
 }
